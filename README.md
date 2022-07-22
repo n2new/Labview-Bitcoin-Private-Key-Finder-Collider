@@ -1,4 +1,4 @@
-# Labview Lost Botcoin -Key-Finder
+# Labview Lost Bitcoin -Key-Finder
  Labview Bitcoin Lost Key finder.
 
 Uses Linux  Pipe implementation. Peaks out at 1,065,000 Addresses a second
