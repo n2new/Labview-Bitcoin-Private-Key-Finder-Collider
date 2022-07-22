@@ -1,7 +1,7 @@
 # Labview Lost Botcoin -Key-Finder
  Labview Bitcoin Lost Key finder.
 
-Uses Linux  Pipe implementation. Peaks out at 1,045,000 Addresses a second
+Uses Linux  Pipe implementation. Peaks out at 1,065,000 Addresses a second
 Benchmark 4X  E7-4830 Processor 50 threads. Uses Address File.
 Can search a few Million address Compressed anb Uncompressed With no siginificant slow down. 
 See Example Bitcoin address File. Also Can notify with Text message. 
