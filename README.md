@@ -6,13 +6,16 @@ Benchmark 4X  E7-4830 Processor 50 threads. Uses Address File.
 Can search a few Million address Compressed anb Uncompressed With no siginificant slow down. 
 See Example Bitcoin address File. Also Can notify with Text message. 
 
+Issues
+
  Current Build Will not save found key file But will copy it to the clip baord. 
+ Pipe Data format issues causes loss in 1 in a few thousands line. Still trying to figure this out. 
+ Need to set or automate path to save Found Key file.  Would love some contributers. 
 
 Labview Version 2020 Linux Bitcoin Key finder
 Uses Fasy Keygen By Magnuspub with Mod's. 
 
-Warning. 
-Need to set or automate path to save Found Key file. Currently it will Copy Found Key to clipboard. 
+
 
 
 ![Key Finder](https://user-images.githubusercontent.com/36019554/180500126-c5626ea6-956f-4d81-bfd4-71770173cb0f.jpg)
