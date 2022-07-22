@@ -9,7 +9,7 @@ See Example Bitcoin address File. Also Can notify with Text message.
 Issues
 
  Current Build Will not save found key file But will copy it to the clip baord. 
- Pipe Data format issues causes loss in 1 in a few thousands line. Still trying to figure this out. 
+ Pipe Data format issues causes loss in 1 in a few thousands lines. Still trying to figure this out. 
  Need to set or automate path to save Found Key file.  Would love some contributers. 
 
 Labview Version 2020 Linux Bitcoin Key finder
