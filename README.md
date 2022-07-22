@@ -6,6 +6,8 @@ Benchmark 4X  E7-4830 Processor 50 threads. Uses Address File.
 Can search a few Million address Compressed anb Uncompressed With no siginificant slow down. 
 See Example Bitcoin address File. Also Can notify with Text message. 
 
+ Current Build Will not save found key file But will copy it to the clip baord. 
+
 Labview Version 2020 Linux Bitcoin Key finder
 Uses Fasy Keygen By Magnuspub with Mod's. 
 
@@ -26,7 +28,8 @@ Keygen needs path Set In source code. Would like to autmate this In the future.
 Load Search File
 Set Path for Keygen.
 Copy Keygen to correct Path. 
-Select Number of threads.  
+Select Number of threads. 
+
 Press start. Enjoy! 
 
 Chances of finding Key, Near Zero but this is a fun learning excersise. 
