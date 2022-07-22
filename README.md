@@ -2,7 +2,9 @@
  Labview Bitcoin Lost Key finder.
 
 Uses Linux  Pipe implementation. Peeks out at 1,025000 Addresses a second
-Benchmark 4X  E7-4830 Processor 50 threads.
+Benchmark 4X  E7-4830 Processor 50 threads. Uses Adress File.
+Can search a few Million address With no siginificant slow down. 
+See Example Bitcoin address File. 
 
 Labview Version 2020 Linux Bitcoin Key finder
 Uses Fasy Keygen By Magnupub with Mod's. 
