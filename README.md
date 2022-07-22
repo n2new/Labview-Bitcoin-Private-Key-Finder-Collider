@@ -4,12 +4,31 @@
 Uses Linux  Pipe implementation. Peeks out at 1,025000 Addresses a second
 Benchmark 4X  E7-4830 Processor 50 threads. Uses Adress File.
 Can search a few Million address With no siginificant slow down. 
-See Example Bitcoin address File. 
+See Example Bitcoin address File. Also Can notify with Text message. 
 
 Labview Version 2020 Linux Bitcoin Key finder
 Uses Fasy Keygen By Magnuspub with Mod's. 
-Warning. Labview app needs work. Would love contribtors to fix some issues.
-Need to automate path to save Founb Key file.
+
+Warning. 
+Need to set or automate path to save Found Key file. Currently it will Copy Found Key to clipboard. 
 
 
 ![Key Finder](https://user-images.githubusercontent.com/36019554/180500126-c5626ea6-956f-4d81-bfd4-71770173cb0f.jpg)
+
+
+Instructions
+
+Keygen needs path Set In source code. Would like to autmate this In the future. 
+
+Load Search File
+Set Path for Keygen.
+Copy Keygen to correct Path. 
+Select Number of threads.  
+Press start. Enjoy! 
+
+Chances of finding Key, Near Zero but this is a fun learning excersise. 
+
+
+Donate  
+
+
