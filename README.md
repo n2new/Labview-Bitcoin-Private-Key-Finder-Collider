@@ -1,7 +1,7 @@
 # Labview-Key-Finder
-Key Finder
+ Labview Bitcoin Lost Key finder.
 
-Used Linux  Pipe implementation. Peeks out at 1,025000 Addresses a second
+Uses Linux  Pipe implementation. Peeks out at 1,025000 Addresses a second
 Benchmark 4X  E7-4830 Processor 50 threads.
 
 Labview Version 2020 Linux Bitcoin Key finder
