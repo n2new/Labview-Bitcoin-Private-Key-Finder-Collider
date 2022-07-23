@@ -15,7 +15,7 @@ Issues
  Collaborators Welcome!
 
 Labview Version 2020 Linux Bitcoin Key finder
-Uses Fasy Keygen By Magnuspub with Mod's. 
+Uses Fast Keygen By Magnuspub with Mod's. 
 
 
 
