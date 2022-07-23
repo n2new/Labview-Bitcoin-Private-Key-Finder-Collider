@@ -10,7 +10,7 @@ Issues
 
  Current Build Will not save found key file untill you set path in VI But will copy it to the clip baord. 
  Pipe Data format issues causes loss in 1 in a few thousands lines. Still trying to figure this out. 
- Need to set or automate path to save Found Key file. Loop timing is sajustablt as throttle
+ Need to set or automate path to save Found Key file. Loop timing is ajustable as throttle
  Becuase doesn't handle pipe wait properly but could be fixed possibly. Default is 2 Ms.
  Collaborators Welcome!
 
