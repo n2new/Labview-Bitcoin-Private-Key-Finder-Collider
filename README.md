@@ -42,7 +42,7 @@ Run VI.
 Select Number of threads. 
 Press start. Enjoy! 
 
-Chances of finding Key, Near Zero but this is a fun learning excersise. 
+Chances of finding a Key Near Zero but hey, you never know! 
 
 Donate: Bitcoin Address  bc1q7h637v8x62lapknuvlyxzf0ylan38vexc0h6wr
 
