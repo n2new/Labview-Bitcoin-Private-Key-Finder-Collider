@@ -2,13 +2,13 @@
  Labview Bitcoin Lost Key finder.
 
 Uses Linux  Pipe implementation. Peaks out at 1,065,000 Addresses a second
-Benchmark 4X  E7-4830 Processor 50 threads. Uses Address File.
+Benchmark 4X E7-4830 Processor 50 threads. Uses Address File.
 Can search a few Million address Compressed and Uncompressed With no siginificant slow down. 
 See Example Bitcoin address File. Also Can notify with Text message. 
 
 Issues
 
- Current Build Will not save found key file But will copy it to the clip baord. 
+ Current Build Will not save found key file untill you set path in VI But will copy it to the clip baord. 
  Pipe Data format issues causes loss in 1 in a few thousands lines. Still trying to figure this out. 
  Need to set or automate path to save Found Key file.  Would love some contributers. 
 
@@ -29,17 +29,15 @@ Instructions
 Keygen needs path Set In source code constant. (Would like to automate this In the future and package release with Keygen).
 
 Unpack all files and sub vi's into a folder.
-Open project 
-run
-Load Search File
-Set Path for Keygen.
-Copy Keygen to correct Path. 
+Open project (Bitcoin Lost key Finder.lvproj)
+Set Path for Keygen, Copy Keygen to path you choose.
+Set Path constant in Search bith Addresses Sub vi to save found key file. 
+Load Search File.
+Run VI. 
 Select Number of threads. 
-
 Press start. Enjoy! 
 
 Chances of finding Key, Near Zero but this is a fun learning excersise. 
-
 
 Donate: Bitcoin Address  bc1q7h637v8x62lapknuvlyxzf0ylan38vexc0h6wr
 
