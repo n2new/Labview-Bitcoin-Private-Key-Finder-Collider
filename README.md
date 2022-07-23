@@ -26,8 +26,11 @@ Uses Fasy Keygen By Magnuspub with Mod's.
 
 Instructions
 
-Keygen needs path Set In source code. Would like to autmate this In the future. 
+Keygen needs path Set In source code constant. (Would like to automate this In the future and package release with Keygen).
 
+Unpack all files and sub vi's into a folder.
+Open project 
+run
 Load Search File
 Set Path for Keygen.
 Copy Keygen to correct Path. 
