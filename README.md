@@ -1,8 +1,8 @@
 # Labview Lost Bitcoin -Key-Finder
  Labview Bitcoin Lost Key finder.
 
-Uses Linux named Pipes implementation to read Keygen executable. Peaks out at 1,065,000 Addresses a second
-Benchmark 4X E7-4830 Processor 50 threads. Uses Address File.
+Uses Linux named Pipes implementation to read Keygen executable. Peaks out at 1,065,000 Addresses a second.
+Benchmarked on 4X E7-4830 Processors, 50 threads. Uses text Address File.
 Can search a few Million address Compressed and Uncompressed With no siginificant slow down using labview search 1d array VIM. 
 See Example Bitcoin address File. Also Can notify with Text message. 
 
