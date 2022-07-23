@@ -36,7 +36,7 @@ Copy all Project files Main Vi and sub vi's into a folder.
 Open project (Bitcoin Lost key Finder.lvproj)
 Open (Hunters Crack Pipes.vi) <------Main VI
 Set Path for Keygen, Copy Keygen to path you choose.
-Set Path constant in Search bith Addresses Sub vi to save found key file. 
+Set Path constant in (Search both Addresses Sub vi) to save found key file. 
 Load Search File.
 Run VI. 
 Select Number of threads. 
