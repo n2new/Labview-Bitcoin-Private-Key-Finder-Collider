@@ -12,7 +12,7 @@ Issues
  Pipe Data format issues causes loss in 1 in a few thousands lines. Still trying to figure this out. 
  Need to set or automate path to save Found Key file. Loop timing is sajustablt as throttle
  Becuase doesn't handle pipe wait properly but could be fixed possibly. Default is 2 Ms.
- collaborators Welcome!
+ Collaborators Welcome!
 
 Labview Version 2020 Linux Bitcoin Key finder
 Uses Fasy Keygen By Magnuspub with Mod's. 
