@@ -10,7 +10,9 @@ Issues
 
  Current Build Will not save found key file untill you set path in VI But will copy it to the clip baord. 
  Pipe Data format issues causes loss in 1 in a few thousands lines. Still trying to figure this out. 
- Need to set or automate path to save Found Key file.  Would love some contributers. 
+ Need to set or automate path to save Found Key file. Loop timing is sajustablt as throttle
+ Becuase doesn't handle pipe wait properly but could be fixed possibly. Default is 2 Ms.
+ collaborators Welcome!
 
 Labview Version 2020 Linux Bitcoin Key finder
 Uses Fasy Keygen By Magnuspub with Mod's. 
@@ -24,13 +26,15 @@ Uses Fasy Keygen By Magnuspub with Mod's.
 ![image](https://user-images.githubusercontent.com/36019554/180504578-4b60d449-202d-447c-a6a3-1f7897ef04b1.png)
 
 
-Instructions
+Instructions 
 
-Keygen needs path Set In source code constant. (Would like to automate this In the future and package release with Keygen).
+Install labview 2020 or newer community addition Linux. 
 
-Unpack all files and sub vi's into a folder.
+Note: Keygen needs path Set In source code constant. (Would like to automate this In the future and package release with Keygen).
+
+Copy all Project files Main Vi and sub vi's into a folder.
 Open project (Bitcoin Lost key Finder.lvproj)
-Open (Hunters Crack Pipe.vi)
+Open (Hunters Crack Pipes.vi) <------Main VI
 Set Path for Keygen, Copy Keygen to path you choose.
 Set Path constant in Search bith Addresses Sub vi to save found key file. 
 Load Search File.
