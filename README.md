@@ -33,13 +33,21 @@ Install labview 2020 or newer community addition Linux.
 Note: Keygen needs path Set In source code constant. (Would like to automate this In the future and package release with Keygen).
 
 Copy all Project files Main Vi and sub vi's into a folder.
+
 Open project (Bitcoin Lost key Finder.lvproj)
+
 Open (Hunters Crack Pipes.vi) <------Main VI
+
 Set Path for Keygen, Copy Keygen executable to path you choose.
+
 Set Path constant in (Search both Addresses Sub vi) to save found key file. (optional)
-Load Search text File. File can have one address or millions. Or use the indled file with over 500k Addresses. 
+
+Load Search text File. File can have one address or millions. Or use the included file with over 500k Addresses. 
+
 Run VI. 
+
 Select Number of threads. 
+
 Press start. Enjoy! 
 
 Chances of finding a Key Near Zero but hey, you never know! 
