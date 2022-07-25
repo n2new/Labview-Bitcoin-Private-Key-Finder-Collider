@@ -43,7 +43,7 @@ Select Number of threads.
 Press start. Enjoy! 
 
 Chances of finding a Key Near Zero but hey, you never know! 
-Why is called Hunters crack pipe? Becuase it uses Linux pipes..
+Why is it called Hunters crack pipe? Becuase it uses Linux pipes.
 
 Donate: Bitcoin Address  bc1q7h637v8x62lapknuvlyxzf0ylan38vexc0h6wr
 
